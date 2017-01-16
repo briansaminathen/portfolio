@@ -1,0 +1,21 @@
+{
+  "name": "brians-portfolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Brian Saminathen <briansaminathen@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/briansaminathen/portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.1"
+  }
+}
